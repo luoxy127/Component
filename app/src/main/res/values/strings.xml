@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Component</string>
+    <string name="lab_title">Android界面组件实验</string>
+    <string name="exp1">实验1  ListView的用法</string>
+    <string name="exp2">实验2  自定义布局的AlertDialog</string>
+    <string name="exp3">实验3  使用XML定义菜单</string>
+    <string name="exp4">实验4  ActionMode上下文菜单</string>
+    <string name="exp5">实验5  使用RecyclerView实现列表</string>
+</resources>
