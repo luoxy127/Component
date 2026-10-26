@@ -85,7 +85,7 @@ listView.onItemClickListener = AdapterView.OnItemClickListener { _, _, position,
 
 
 
-![实验一运行效果](shot_toast_name.png)
+![实验一运行效果](images/exp1.png)
 
 ### 2. 实验二：创建自定义布局的 AlertDialog
 
@@ -111,7 +111,7 @@ dialogView.findViewById<Button>(R.id.dialog_signin).setOnClickListener {
 
 
 
-![实验二运行效果](shot_exp2_dialog.png)
+![实验二运行效果](images/exp2.png)
 
 ### 3. 实验三：使用 XML 定义菜单
 
@@ -142,9 +142,7 @@ override fun onOptionsItemSelected(item: MenuItem): Boolean {
 
 运行效果：点击右上角菜单按钮弹出菜单，展开 "字体大小" 可将测试文本切换为 10/16/20 号字，点击 "普通菜单项" 弹出 Toast，点击 "字体颜色" 可将文字切换为红色或黑色。
 
-
-
-![实验三运行效果](shot_exp3_menu.png)
+![实验三运行效果](images/exp3.png)
 
 ### 4. 实验四：创建 ActionMode 上下文菜单
 
@@ -175,7 +173,7 @@ listView.setMultiChoiceModeListener(object : AbsListView.MultiChoiceModeListener
 
 
 
-![实验四运行效果](shot_exp4_blue2.png)
+![实验四运行效果](images/exp4.png)
 
 ### 5. 实验五：使用 RecyclerView 实现列表
 
@@ -227,7 +225,7 @@ findViewById<Button>(R.id.btn_add).setOnClickListener {
 
 
 
-![实验五运行效果](shot_exp5_cat4.png)
+![实验五运行效果](images/exp5.png)
 
 ## 五、实验结果
 
